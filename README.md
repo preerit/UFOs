@@ -9,6 +9,8 @@ A data scientist wants to write about her hometown McMinville Oregon that is fam
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
