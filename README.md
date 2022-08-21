@@ -7,12 +7,18 @@ A data scientist wants to write about her hometown McMinville Oregon that is fam
 
 ![UFOs_Webpage](https://github.com/preerit/UFOs/blob/main/UFOs_Webpage.png)
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![UFOs_filters](https://github.com/preerit/UFOs/blob/main/UFOs_filters.png)
+
+![UFOs_filter_date](https://github.com/preerit/UFOs/blob/main/UFOs_filter_date.png)
+
+![UFOs_filter_city](https://github.com/preerit/UFOs/blob/main/UFOs_filter_city.png)
+
+![UFOs_filter_state](https://github.com/preerit/UFOs/blob/main/UFOs_filter_state.png)
+
+![UFOs_filter_country](https://github.com/preerit/UFOs/blob/main/UFOs_filter_country.png)
+
+![UFOs_filter_shape](https://github.com/preerit/UFOs/blob/main/UFOs_filter_shape.png)
+
 
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
